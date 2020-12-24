@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Below are a few stats about me
+
+![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=onshimiye&show_icons=true&theme=solarized-dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onshimiye&layout=compact&exclude=mindcanhack_arvrhackathon)
